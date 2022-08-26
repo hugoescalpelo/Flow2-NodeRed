@@ -3,7 +3,7 @@ En este repositoro se muestran los archivos para realizar el flow2 del curso de 
 
 ## Introducción
 
-El flow 2 es el segundo enercicio a realizar en el curso de NodeRed. Este ejecicio consiste en darle un formato legible para humanos al timestamp y mostrar la fecha en la sección debug.
+El flow 2 es el segundo ejercicio a realizar en el curso de NodeRed. Este ejecicio consiste en darle un formato legible para humanos al timestamp y mostrar la fecha en la sección debug.
 
 ## Material Necesario
 
@@ -13,7 +13,6 @@ Para realizar este flow necesitas lo siguiente
 - [NodeJS](https://nodejs.org/es/)
     - [NPM](https://www.npmjs.com/)
     - [NodeRed](https://nodered.org/docs/getting-started/local)
-    - [Nodos Dashboard](https://flows.nodered.org/node/node-red-dashboard)
 
 ## Material de referencia
 
